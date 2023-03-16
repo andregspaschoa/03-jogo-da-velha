@@ -1,6 +1,6 @@
 div {
     width: 400px;
-    height: 400px; 
+    height: 400px;
 	text-align: center;
 	font-family: 'Press Start 2P', cursive;
 }
@@ -49,11 +49,11 @@ ul li {
 }
 
 .kz-img-x {
-	background-image: url('/assets/imagens/x.png');
+	background-image: url('https://raw.githubusercontent.com/andregspaschoa/03-jogo-da-velha/main/src/assets/imagens/x.png');
 }
 
 .kz-img-o {
-	background-image: url('/assets/imagens/o.png');
+	background-image: url('https://raw.githubusercontent.com/andregspaschoa/03-jogo-da-velha/main/src/assets/imagens/o.png');
 }
 
 .kz-cor-vitoria {
